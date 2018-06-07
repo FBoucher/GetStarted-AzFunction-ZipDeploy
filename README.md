@@ -7,3 +7,4 @@ Azure functions are great. I used to do a lot of "csx" version (C# scripted vers
 In this demo, I will deploy a simple C# (full .Net framework) Azure functions. I will create the Azure Function App and storage using an Azure Resource Manager (ARM template) and deploy with a method named Zip push or ZipDeploy.  All steps are available on my blog at: [How to Deploy your Azure Functions Faster and Easily with Zip Push](https://www.frankysnotes.com/2018/06/how-to-deploy-your-azure-functions.html)
 or in video on YouTube at: https://youtu.be/2xzjRSOuSKU
 
+![tumbnail](./Azure Functions ZipDeploy EN.png)
