@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzFunction-ZipDeploy", "AzFunction-ZipDeploy\AzFunction-ZipDeploy.csproj", "{59B39BB3-3F11-4C98-A8A5-2F13D90F73E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B39BB3-3F11-4C98-A8A5-2F13D90F73E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B39BB3-3F11-4C98-A8A5-2F13D90F73E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B39BB3-3F11-4C98-A8A5-2F13D90F73E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B39BB3-3F11-4C98-A8A5-2F13D90F73E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC75ED5-C976-41C5-8B7C-31FBDCCA8D39}
+	EndGlobalSection
+EndGlobal
